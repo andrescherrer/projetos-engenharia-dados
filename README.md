@@ -20,7 +20,6 @@ Use como roteiro de estudos, base para portfólio ou referência para entrevista
 
 ---
 ### Créditos: [@vbluuiza](https://github.com/vbluuiza)
-Lista de projetos baseada na lista de projetos de [@vbluuiza]
 
 Acessem o canal no youtube de [https://www.youtube.com/@vbluuiza](https://www.youtube.com/@vbluuiza)
 
