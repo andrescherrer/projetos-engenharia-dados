@@ -17,7 +17,11 @@ Este repositório reúne **projetos de dados** ordenados por dificuldade e compl
 
 Use como roteiro de estudos, base para portfólio ou referência para entrevistas em Engenharia de Dados.
 
+### Lista de projetos baseada na lista de Luiza Vieira (vbluuiza) [https://github.com/vbluuiza](https://github.com/vbluuiza/)
+
+### acessem o canal dela no youtube [https://www.youtube.com/@vbluuiza](https://www.youtube.com/@vbluuiza)
 ---
+
 
 ## 📂 Projetos
 
